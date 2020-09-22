@@ -1,0 +1,2 @@
+# Segmentation-of-Insurance-Clients
+Segmentation of the clients of an insurance company based on the survey data received from the clients. The data contains variables such as trust, experience, hospitality, service and other such customer based information. The model uses factor analysis to find the most significant factors and then used them for the Hierarchical and K-means clustering of the clients.
