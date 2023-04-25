@@ -11,7 +11,7 @@ The analysis performed in this code involves segmenting the insurance clients in
 The results of the segmentation analysis are presented in the form of a plot showing the distribution of clients across the different clusters. Additionally, some basic descriptive statistics are provided for each cluster, including the average age, income, and education level of the clients in the cluster.
 
 ## Usage
-To run the analysis, simply download the Insurance client segmentation.R file and run it in R or RStudio. Note that the script requires several packages to be installed, including tidyverse, cluster, and factoextra. These packages can be installed using the install.packages() function in R.
+To run the analysis, simply download the Insurance client segmentation.R file and run it in R or RStudio. Note that the script requires several packages to be installed, including **tidyverse, cluster, and factoextra**. These packages can be installed using the install.packages() function in R.
 
 ## Credits
 The code in this repository was written by Fiza Faiz. The data used in the analysis was obtained from a Kaggle dataset.
